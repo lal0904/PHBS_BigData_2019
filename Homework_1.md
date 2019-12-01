@@ -1,5 +1,8 @@
 # Homework_1
 
+## 2018 Fintech
+### 1801212887 Liu Anlei
+
 With the rapid development of Wechat salesmen （multinational purchasing agents）, more and more people choose to buy things through Wechat. But actually the ways of recommend and trade are every tradition, sometimes it is hard for the seller to provide considerable service to every customers, which will result the loss of business and customers. After several years of development, this market has accumulated huge amounts of data. So I want to design an intelligent recommendation and trade system to provide better service to customers and save time for sellers. 
 
 This system combined with two objectives, which are intelligent recommendation and automatic trade system.
@@ -15,6 +18,7 @@ After the customer send message to the seller about their requirement, the intel
 After recommend products to customer, the customer will give a feedback whether to buy or not. If choose to buy the product, the trade engine start working, it interact with Wechat pay to complete the deal. Also, we have to update the historical shopping record. If the buyer says that she will consider or refuse the suggestions, we update the historical shopping record either.
 
 The database we use is RDBMS, since RDBMS is easy to maintain and use. Also the data we use always related to specific customers, the data are used to describe the character and shopping habits. Using RDBMS, we can easily call all the information related to the user and store it in categories.
+Also RDBMS is easy to maintain, data is storage structured, and is relatively independent, but can be shared between different database. For every customer, they are independent tuple, so it is easy to manange. 
 
 ## Work flow
 ![](https://github.com/lal0904/PHBS_BigData_2019/blob/master/workflow.jpg)  
