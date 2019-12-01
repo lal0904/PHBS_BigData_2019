@@ -17,4 +17,4 @@ After recommend products to customer, the customer will give a feedback whether 
 The database we use is RDBMS, since RDBMS is easy to maintain and use. Also the data we use always related to specific customers, the data are used to describe the character and shopping habits. Using RDBMS, we can easily call all the information related to the user and store it in categories.
 
 # Work flow
-![](http://www.baidu.com/img/bdlogo.gif)  
+![](https://github.com/lal0904/PHBS_BigData_2019/blob/master/workflow.jpg)  
